@@ -1,0 +1,25 @@
+   #gameArea {
+    stroke: black;
+    fill: bisque;
+   }
+   #gameBoardLeft {
+    stroke: black;
+    fill: aqua;
+   }
+   #gameBoardRight {
+    stroke: black;
+    fill: blue;
+   }
+   #ball {
+    stroke: black;
+    fill: red;
+   }
+   #start {
+    /* margin-left: 20px; */
+    /* float: left; */
+   }
+   #score {
+    width: 600px;
+    text-align: center;
+    color: brown;
+   }
